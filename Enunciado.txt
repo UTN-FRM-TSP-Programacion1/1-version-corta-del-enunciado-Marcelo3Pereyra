@@ -1,0 +1,23 @@
+--- Día 1: No muy Lisp ---
+
+Papá Noel esperaba una Navidad blanca, pero la función de nieve de su máquina meteorológica está impulsada por estrellas, ¡y está recién llegado! Para salvar la Navidad, necesita que acumules cincuenta estrellas antes del 25 de diciembre.
+
+Recoge estrellas ayudando a Papá Noel a resolver rompecabezas. Dos rompecabezas estarán disponibles cada día en el calendario de adviento; el segundo rompecabezas se desbloquea al completar el primero. Cada rompecabezas otorga una estrella. ¡Buena suerte!
+
+Aquí hay un rompecabezas fácil para calentarte.
+
+Santa está tratando de entregar los regalos en un gran edificio de apartamentos, pero no puede encontrar el piso correcto; las instrucciones que recibió son un poco confusas. Comienza en la planta baja (piso 0) y luego sigue las instrucciones de un personaje a la vez.
+
+Un paréntesis de apertura, (, significa que debe subir un piso, y un paréntesis de cierre), significa que debe bajar un piso.
+
+El edificio de apartamentos es muy alto, y el sótano es muy profundo; Él nunca encontrará los pisos superiores o inferiores.
+
+Por ejemplo:
+
+    (()) y () () ambos resultan en el piso 0.
+    (((y (() (())) (ambos resultados en el piso 3.
+    )) (((((también resulta en el piso 3.
+    ()) y)) (ambos resultan en el piso -1 (el primer nivel del sótano).
+    ))) y) ()) ()) ambos resultan en el piso -3.
+
+¿A qué piso llevan las instrucciones santa?
