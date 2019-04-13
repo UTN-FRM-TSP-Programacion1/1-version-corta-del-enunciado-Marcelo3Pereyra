@@ -1,0 +1,5 @@
+ #Enunciado-corto# 
+
+Santa está tratando de entregar los regalos en un gran edificio de apartamentos, pero no puede encontrar el piso correcto; las instrucciones que recibió son un poco confusas. Comienza en la planta baja (piso 0) y luego sigue las instrucciones de un personaje a la vez.
+
+Un paréntesis de apertura, (, significa que debe subir un piso, y un paréntesis de cierre), significa que debe bajar un piso.
