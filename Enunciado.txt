@@ -21,3 +21,5 @@ Por ejemplo:
     ))) y) ()) ()) ambos resultan en el piso -3.
 
 ¿A qué piso llevan las instrucciones santa?
+
+Probando comando pull
